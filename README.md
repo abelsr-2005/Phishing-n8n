@@ -137,7 +137,7 @@ El sistema podría mejorarse mediante:
 # 6. Captura del workflow
 
 Insertar aquí la captura del workflow en n8n mostrando la estructura de nodos.
-
+![Workflow n8n](./n8n.png)
 ---
 
 Autor: Abel Sánchez Ramos
