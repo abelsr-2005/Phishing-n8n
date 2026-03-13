@@ -1,6 +1,6 @@
 # Detector Automático de Phishing con n8n
 
-## 1. Descripción del incidente
+## 🔎 Descripción del incidente
 
 Este sistema detecta **posibles correos de phishing** de forma automática. El phishing consiste en correos fraudulentos diseñados para engañar al usuario y obtener información sensible como contraseñas, datos bancarios o credenciales.
 
@@ -14,7 +14,7 @@ Cuando se detecta un correo sospechoso, el sistema envía una alerta para permit
 
 ---
 
-# 2. Lógica de detección
+# ⚙️ Lógica de detección
 
 El workflow en **n8n** sigue este flujo:
 
@@ -77,7 +77,7 @@ Cuando se detecta riesgo alto, el sistema envía una **alerta automática a Tele
 
 ---
 
-# 3. Justificación de los criterios
+# 🧠 Justificación de los criterios
 
 Los criterios utilizados se basan en técnicas reales de detección de phishing:
 
@@ -90,7 +90,7 @@ El uso de inteligencia artificial permite detectar patrones más complejos y red
 
 ---
 
-# 4. Cómo probar el workflow
+# 🧪 Cómo probar el workflow
 
 1. Importar el workflow en n8n.
 2. Configurar credenciales:
@@ -123,7 +123,7 @@ El sistema clasificará el correo como **riesgo alto** y enviará una alerta a T
 
 ---
 
-# 5. Posibles mejoras
+# 🚀 Posibles mejoras
 
 El sistema podría mejorarse mediante:
 
@@ -134,9 +134,9 @@ El sistema podría mejorarse mediante:
 
 ---
 
-# 6. Captura del workflow
-![Workflow n8n](./n8n.png)
+# 🖼️ Captura del workflow
 
+![Workflow n8n](./n8n.png)
 
 ---
 
