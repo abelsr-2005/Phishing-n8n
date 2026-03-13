@@ -135,11 +135,11 @@ El sistema podría mejorarse mediante:
 ---
 
 # 6. Captura del workflow
-
-Insertar aquí la captura del workflow en n8n mostrando la estructura de nodos.
 ![Workflow n8n](./n8n.png)
+
+
 ---
 
-Autor: Abel Sánchez Ramos
-Asignatura: Incidentes de Ciberseguridad
+Autor: Abel Sánchez Ramos <br>
+Asignatura: Incidentes de Ciberseguridad <br>
 Fecha: 03‑03‑2026
